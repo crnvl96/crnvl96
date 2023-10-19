@@ -12,21 +12,29 @@
 </div>
 
 #### What I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### My latest projects
-{{range recentRepos 10}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
+#### Recent Pull Requests
+{{range recentPullRequests 10}}
+{{if .Repo.IsPublic}}
+- [{{.Repo.Name}}]({{.Repo.URL}})  
+  - [{{.Title}}]({{.URL}}): {{.State}}
+{{end}}
+{{end}}
+
 #### Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### ⭐ Recent stars
-{{range recentStars 10}}
+#### Recent stars
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
