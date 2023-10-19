@@ -1,14 +1,30 @@
-### Hello!
+<div align="center" width="100%">
+  <a align="center" href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crnvl96&hide_progress=true&card_width=320&theme=transparent" />
+  </a>
+</div>
 
-I'm Ádran, a software engineer from Brazil.
+#### What I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+{{- end}}
 
-#### Repositories I created recently
+#### My latest projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
 
-{{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+#### Latest releases I've contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
 
-#### Projects I'm working on
-{{ range recentContributions 10 }}
-- [{{.Repo.Name}}]({{.Repo.URL}})
+#### Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ⭐ Recent stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
