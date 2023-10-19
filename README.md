@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/crnvl96/crnvl96/main/assets/op.jpeg" width="900px" height="300px">
+<img align="center" margin="auto" src="https://raw.githubusercontent.com/crnvl96/crnvl96/main/assets/op.jpeg" width="600px" height="200px">
 
 ---
 
