@@ -19,9 +19,9 @@ jobs:
           markscribe ./templates/readme.md.tpl > README.md
         shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          LITERAL_EMAIL: ${{ secrets.LITERAL_EMAIL }}
-          LITERAL_PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
+            # EMAIL: ${{ secrets.LITERAL_EMAIL }}
+            # PASSWORD: ${{ secrets.LITERAL_PASSWORD }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
