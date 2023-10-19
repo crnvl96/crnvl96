@@ -9,8 +9,6 @@ I'm Ádran, a software engineer from Brazil.
 {{- end }}
 
 #### Projects I'm working on
-
-{{- range pinnedRepos 5 }}
 {{ range recentContributions 10 }}
 - [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end }}
