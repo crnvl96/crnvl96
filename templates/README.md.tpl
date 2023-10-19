@@ -27,7 +27,7 @@
 {{- end}}
 
 #### My recent Pull Requests
-{{range recentPullRequests}}
+{{range recentPullRequests 15}}
   {{if eq .Repo.IsPrivate false}}
   - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
   {{end}}
