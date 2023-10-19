@@ -13,7 +13,7 @@
 
 #### What I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}}) - {{.Tepo.IsPublic}}
 {{- end}}
 
 #### My latest projects
@@ -21,13 +21,10 @@
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### Recent Pull Requests
-{{range recentPullRequests 10}}
-{{if .Repo.IsPublic}}
-- [{{.Repo.Name}}]({{.Repo.URL}})  
-  - [{{.Title}}]({{.URL}}): {{.State}}
-{{end}}
-{{end}}
+#### 🍴 My recent forks
+{{range recentForks 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 #### Latest releases I've contributed to
 {{range recentReleases 5}}
