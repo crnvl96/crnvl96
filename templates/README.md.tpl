@@ -5,21 +5,21 @@
 </div>
 
 #### What I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### My latest projects
-{{range recentRepos 5}}
+{{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### ⭐ Recent stars
-{{range recentStars 5}}
+{{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
