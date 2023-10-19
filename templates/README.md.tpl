@@ -12,11 +12,11 @@
 </div>
 
 #### Recently created repos
-{{range recentRepos 3}}
+{{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### What I've been working on
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end}}
