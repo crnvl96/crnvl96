@@ -11,29 +11,12 @@
   </a>
 </div>
 
-#### What I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### My latest projects
-{{range recentRepos 5}}
+#### Recently created repos
+{{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+#### What I've been working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
-
-#### My recent Pull Requests
-{{range recentPullRequests 15}}
-  {{if eq .Repo.IsPrivate false}}
-  - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{end}}
-{{- end}}
-
-#### Recent stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
