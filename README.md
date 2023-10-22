@@ -13,8 +13,8 @@
 
 #### Recently created repos
 
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - My personal dotfiles
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings) - Learning some zig
-- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - Personal dotfiles
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang) - Monads in Golang
 - [crnvl96/tsuru-interpreter](https://github.com/crnvl96/tsuru-interpreter) - Interpreter written in go
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim) - Plugin to open LazyDocker without quiting neovim
@@ -25,8 +25,8 @@
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings)
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang)
 - [crnvl96/tsuru-interpreter](https://github.com/crnvl96/tsuru-interpreter)
-- [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim)
 - [crnvl96/LuaBird](https://github.com/crnvl96/LuaBird)
+- [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim)
 - [crnvl96/pong](https://github.com/crnvl96/pong)
 - [crnvl96/snake-game](https://github.com/crnvl96/snake-game)
 - [crnvl96/mail-pdf-scanner](https://github.com/crnvl96/mail-pdf-scanner)
