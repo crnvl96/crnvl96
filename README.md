@@ -21,8 +21,8 @@
 
 #### What I've been working on
 
-- [crnvl96/golang-interpreter](https://github.com/crnvl96/golang-interpreter)
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
+- [crnvl96/golang-interpreter](https://github.com/crnvl96/golang-interpreter)
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings)
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang)
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim)
