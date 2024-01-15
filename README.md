@@ -21,8 +21,8 @@
 
 #### What I've been working on
 
-- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
 - [crnvl96/aoc-2023-go](https://github.com/crnvl96/aoc-2023-go)
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
 - [crnvl96/let-it-crash](https://github.com/crnvl96/let-it-crash)
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings)
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang)
