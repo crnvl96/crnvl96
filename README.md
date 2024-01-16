@@ -13,21 +13,21 @@
 
 #### Recently created repos
 
+- [crnvl96/aoc2023-go](https://github.com/crnvl96/aoc2023-go) - https://adventofcode.com/
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
 - [crnvl96/let-it-crash](https://github.com/crnvl96/let-it-crash) - Smart error handling in JS Apps
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings) - Learning some zig
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang) - Monads in Golang
-- [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim) - Plugin to open LazyDocker without quiting neovim
 
 #### What I've been working on
 
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
+- [crnvl96/aoc2023-go](https://github.com/crnvl96/aoc2023-go)
 - [crnvl96/let-it-crash](https://github.com/crnvl96/let-it-crash)
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings)
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang)
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim)
 - [crnvl96/lua-bird](https://github.com/crnvl96/lua-bird)
 - [crnvl96/pong](https://github.com/crnvl96/pong)
-- [crnvl96/snake-game](https://github.com/crnvl96/snake-game)
 - [crnvl96/mail-pdf-scanner](https://github.com/crnvl96/mail-pdf-scanner)
-- [LazyVim/lazyvim.github.io](https://github.com/LazyVim/lazyvim.github.io)
+- [crnvl96/snake-game](https://github.com/crnvl96/snake-game)
