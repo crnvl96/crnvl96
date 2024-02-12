@@ -29,5 +29,5 @@
 - [crnvl96/lua-bird](https://github.com/crnvl96/lua-bird)
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim)
 - [crnvl96/pong](https://github.com/crnvl96/pong)
-- [crnvl96/snake-game](https://github.com/crnvl96/snake-game)
 - [crnvl96/mail-pdf-scanner](https://github.com/crnvl96/mail-pdf-scanner)
+- [crnvl96/snake-game](https://github.com/crnvl96/snake-game)
