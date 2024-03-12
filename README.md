@@ -13,8 +13,8 @@
 
 #### Recently created repos
 
-- [crnvl96/aoc2023-go](https://github.com/crnvl96/aoc2023-go) - https://adventofcode.com/
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles)
+- [crnvl96/aoc2023-go](https://github.com/crnvl96/aoc2023-go) - https://adventofcode.com/
 - [crnvl96/let-it-crash](https://github.com/crnvl96/let-it-crash) - Smart error handling in JS Apps
 - [crnvl96/ziglings](https://github.com/crnvl96/ziglings) - Learning some zig
 - [crnvl96/monads-in-golang](https://github.com/crnvl96/monads-in-golang) - Monads in Golang
