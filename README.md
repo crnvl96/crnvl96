@@ -2,7 +2,7 @@
 
 I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
-> Find me on [linkedid](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
+> Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
