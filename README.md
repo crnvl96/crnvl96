@@ -3,58 +3,16 @@
 I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
 #### Recent contributions
-
-
-Name: crnvl96/nvim
-Description: my nvim config
-URL: https://github.com/crnvl96/nvim)
-Occurred: today
-
-Name: crnvl96/jsx-renderer-vite
-Description: a no library jsx renderer powered by vite.js
-URL: https://github.com/crnvl96/jsx-renderer-vite)
-Occurred: today
-
-Name: crnvl96/thoughts
-Description: personal blog
-URL: https://github.com/crnvl96/thoughts)
-Occurred: today
-
-Name: crnvl96/dotfiles
-Description: personal config files
-URL: https://github.com/crnvl96/dotfiles)
-Occurred: 1 day ago
-
-Name: crnvl96/jsx-renderer
-Description: a jsx renderer powered by babel
-URL: https://github.com/crnvl96/jsx-renderer)
-Occurred: 1 day ago
-
-Name: crnvl96/.vim
-Description: my vimrc
-URL: https://github.com/crnvl96/.vim)
-Occurred: 3 days ago
-
-Name: crnvl96/plethora
-Description: a study over some programming ideas
-URL: https://github.com/crnvl96/plethora)
-Occurred: 1 week ago
-
-Name: crnvl96/tsuru
-Description: interpreter written in go
-URL: https://github.com/crnvl96/tsuru)
-Occurred: 3 weeks ago
-
-Name: crnvl96/rustlings
-Description: 
-URL: https://github.com/crnvl96/rustlings)
-Occurred: 3 weeks ago
-
-Name: crnvl96/lazydocker.nvim
-Description: Plugin to open LazyDocker without quiting neovim
-URL: https://github.com/crnvl96/lazydocker.nvim)
-Occurred: 1 month ago
-
+- [crnvl96/nvim](https://github.com/crnvl96/nvim): my nvim config - (today)
+- [crnvl96/jsx-renderer-vite](https://github.com/crnvl96/jsx-renderer-vite): a no library jsx renderer powered by vite.js - (today)
+- [crnvl96/thoughts](https://github.com/crnvl96/thoughts): personal blog - (today)
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles): personal config files - (1 day ago)
+- [crnvl96/jsx-renderer](https://github.com/crnvl96/jsx-renderer): a jsx renderer powered by babel - (1 day ago)
+- [crnvl96/.vim](https://github.com/crnvl96/.vim): my vimrc - (3 days ago)
+- [crnvl96/plethora](https://github.com/crnvl96/plethora): a study over some programming ideas - (1 week ago)
+- [crnvl96/tsuru](https://github.com/crnvl96/tsuru): interpreter written in go - (3 weeks ago)
+- [crnvl96/rustlings](https://github.com/crnvl96/rustlings):  - (3 weeks ago)
+- [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim): Plugin to open LazyDocker without quiting neovim - (1 month ago)
 
 #### Recent writings
 - [Building a JSX Transpiler with Vite](http://crnvl96.dev/posts/2025-10-10-building_an_jsx_transpiler_with_vite/) (1 day ago)
