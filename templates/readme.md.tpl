@@ -12,6 +12,6 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
 #### Recent writings
 
-{{- range rss "https://crnvl96.dev/posts/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- range rss "https://crnvl96.dev/posts/index.xml" 10 }}
+- [{{ .Title }}]({{ .URL }})
 {{- end }}
