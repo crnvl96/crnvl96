@@ -2,10 +2,12 @@
 
 I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
+> Find me on [linkedid](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
+
 #### Recent contributions
 
 {{- range recentContributions 10 }}
-- [{{.Repo.Name}}]({{ .Repo.URL }}): {{ .Repo.Description }} - ({{ humanize .OccurredAt }})
+- [{{.Repo.Name}}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
 #### Recent writings
