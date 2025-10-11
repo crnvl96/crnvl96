@@ -2,17 +2,14 @@
 
 I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
-#### Recent repositories
-
-{{- range recentRepos 5 }}
-- **[{{ .Name }}]({{ .URL }})**{{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
-
 #### Recent contributions
 
-{{ range recentContributions 10 }}
-- [{{.Repo.Name}}]({{.Repo.URL}})
-{{- end }}
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
 
 #### Recent writings
 
