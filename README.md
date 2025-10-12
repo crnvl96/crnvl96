@@ -13,7 +13,7 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/.vim](https://github.com/crnvl96/.vim) - my vimrc
 - [crnvl96/plethora](https://github.com/crnvl96/plethora) - a study over some programming ideas
 - [crnvl96/tsuru](https://github.com/crnvl96/tsuru) - interpreter written in go
-- [crnvl96/rustlings](https://github.com/crnvl96/rustlings) - 
+- [crnvl96/rustlings](https://github.com/crnvl96/rustlings) - my solutions to rustlings
 - [crnvl96/lazydocker.nvim](https://github.com/crnvl96/lazydocker.nvim) - Plugin to open LazyDocker without quiting neovim
 
 #### Recent writings
