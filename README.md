@@ -5,12 +5,12 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
-- [crnvl96/spot](https://github.com/crnvl96/spot) - cli tool to check if you have uncommited changes in any of your repos
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/spot](https://github.com/crnvl96/spot) - cli tool to check if you have uncommited changes in any of your repos
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
 - [crnvl96/jsx-renderer-vite](https://github.com/crnvl96/jsx-renderer-vite) - a no library jsx renderer powered by vite.js
 - [crnvl96/jsx-renderer](https://github.com/crnvl96/jsx-renderer) - a jsx renderer powered by babel
-- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/.vim](https://github.com/crnvl96/.vim) - my vimrc
 - [crnvl96/plethora](https://github.com/crnvl96/plethora) - a study over some programming ideas
 - [crnvl96/tsuru](https://github.com/crnvl96/tsuru) - interpreter written in go
