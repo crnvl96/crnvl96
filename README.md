@@ -6,8 +6,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
 #### Recent contributions
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
-- [crnvl96/counsil](https://github.com/crnvl96/counsil) - cli tool to handle global dependencies
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
+- [crnvl96/counsil](https://github.com/crnvl96/counsil) - cli tool to handle global dependencies
 - [crnvl96/spot](https://github.com/crnvl96/spot) - cli tool to check if you have uncommited changes in any of your repos
 - [crnvl96/dirt](https://github.com/crnvl96/dirt) - track dirty repositories on your filesystem
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
