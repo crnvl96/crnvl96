@@ -5,8 +5,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
-- [crnvl96/init.el](https://github.com/crnvl96/init.el) - emacs config
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/init.el](https://github.com/crnvl96/init.el) - emacs config
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/vim-gitstatus](https://github.com/crnvl96/vim-gitstatus) - runtime files for git status buffer
 - [crnvl96/counsil](https://github.com/crnvl96/counsil) - cli tool to handle global dependencies
