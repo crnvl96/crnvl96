@@ -17,6 +17,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/dirt](https://github.com/crnvl96/dirt) - track dirty repositories on your filesystem
 
 #### Recent writings
+- [Building a JSX Transpiler with Vite](http://crnvl96.dev/posts/2025-10-10-building_an_jsx_transpiler_with_vite/)
+- [Pointers vs. Values in Go](http://crnvl96.dev/posts/2025-09-29-pointers_vs_values_in_go/)
 - [Concurrency in Go](http://crnvl96.dev/posts/2025-09-26-concurrency-in-go/)
 - [LuaLS Type Annotations](http://crnvl96.dev/posts/2025-08-31-lua-ls-type-annotations/)
 - [Docker mangement in Neovim](http://crnvl96.dev/posts/2025-08-24-lazydocker/)
