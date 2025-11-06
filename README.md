@@ -5,8 +5,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
-- [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
+- [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
 - [crnvl96/nvfnl](https://github.com/crnvl96/nvfnl) - my neovim config but in fennel
 - [crnvl96/crkbd-qmk](https://github.com/crnvl96/crkbd-qmk) - crkbd config using QMK
