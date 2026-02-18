@@ -5,8 +5,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
-- [crnvl96/godel-incompleteness-theorems-presentation](https://github.com/crnvl96/godel-incompleteness-theorems-presentation) - 
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/godel-incompleteness-theorems-presentation](https://github.com/crnvl96/godel-incompleteness-theorems-presentation) - 
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
 - [crnvl96/webhook-receiver](https://github.com/crnvl96/webhook-receiver) - 
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
