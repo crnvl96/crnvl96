@@ -6,6 +6,7 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 
 #### Recent contributions
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/presentations](https://github.com/crnvl96/presentations) - 
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
 - [crnvl96/godel-incompleteness-theorems-presentation](https://github.com/crnvl96/godel-incompleteness-theorems-presentation) - 
 - [crnvl96/webhook-receiver](https://github.com/crnvl96/webhook-receiver) - 
@@ -14,7 +15,6 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/pps](https://github.com/crnvl96/pps) - Online planning pocker app
 - [crnvl96/emacsconfig](https://github.com/crnvl96/emacsconfig) - 
 - [crnvl96/walnut](https://github.com/crnvl96/walnut) - Manipulate textobjects, powered by tree-sitter
-- [crnvl96/raytracing](https://github.com/crnvl96/raytracing) - a raytracing simulation in C
 
 #### Recent writings
 - [The math behind ray tracing](https://crnvl96.dev/posts/2026-02-18-the-math-behind-raytracing/)
