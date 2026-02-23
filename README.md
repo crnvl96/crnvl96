@@ -7,9 +7,9 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 #### Recent contributions
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
-- [crnvl96/presentations](https://github.com/crnvl96/presentations) - 
-- [crnvl96/webhook-receiver](https://github.com/crnvl96/webhook-receiver) - 
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
+- [crnvl96/webhook-receiver](https://github.com/crnvl96/webhook-receiver) - 
+- [crnvl96/presentations](https://github.com/crnvl96/presentations) - 
 - [crnvl96/godel-incompleteness-theorems-presentation](https://github.com/crnvl96/godel-incompleteness-theorems-presentation) - 
 - [crnvl96/tracer](https://github.com/crnvl96/tracer) - 
 - [crnvl96/pps](https://github.com/crnvl96/pps) - Online planning pocker app
@@ -17,6 +17,7 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/walnut](https://github.com/crnvl96/walnut) - Manipulate textobjects, powered by tree-sitter
 
 #### Recent writings
+- [Some less known Javascript features - Part 1](https://crnvl96.dev/posts/2026-02-19-javascript-features/)
 - [The math behind ray tracing](https://crnvl96.dev/posts/2026-02-18-the-math-behind-raytracing/)
 - [Gödel&#39;s Incompleteness Theorems](https://crnvl96.dev/posts/2026-02-17-godels-incompletness-theorems/)
 - [Raytracer - Raylib](https://crnvl96.dev/posts/2026-02-07-raytracer-raylib/)
@@ -26,4 +27,3 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [Neovim Plugin Testing with Mocks: Customizing Child Neovim Instances in lazydocker.nvim](https://crnvl96.dev/posts/2025-09-17-mocks/)
 - [Enhancing Neovim Plugin Documentation and Readability with Lua Type Annotations: lazydocker.nvim Case Study](https://crnvl96.dev/posts/2025-09-11-lua-type-annotations/)
 - [Docker mangement in Neovim](https://crnvl96.dev/posts/2025-08-24-lazydocker/)
-- [Event-Driven Architectures with AWS CDK](https://crnvl96.dev/posts/2025-07-30-aws-cdk/)
