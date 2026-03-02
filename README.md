@@ -5,7 +5,9 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
+- [crnvl96/js-playground](https://github.com/crnvl96/js-playground) - ideas over javascript
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/vscode-language-servers](https://github.com/crnvl96/vscode-language-servers) - Standalone Language Server Protocol (LSP) servers extracted from VS Code and vscode-eslint. Use the same HTML, CSS, JSON, Markdown, and ESLint intelligence that powers VS Code in any LSP-capable editor (Neovim, Emacs, Sublime Text, etc.) without running VS Code.
 - [crnvl96/nodejs-design-patterns](https://github.com/crnvl96/nodejs-design-patterns) - 
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
@@ -13,8 +15,6 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/webhook-receiver](https://github.com/crnvl96/webhook-receiver) - 
 - [crnvl96/godel-incompleteness-theorems-presentation](https://github.com/crnvl96/godel-incompleteness-theorems-presentation) - 
 - [crnvl96/tracer](https://github.com/crnvl96/tracer) - 
-- [crnvl96/pps](https://github.com/crnvl96/pps) - Online planning pocker app
-- [crnvl96/emacsconfig](https://github.com/crnvl96/emacsconfig) - 
 
 #### Recent writings
 - [Some less known Javascript features - Part 1](https://crnvl96.dev/posts/2026-02-19-javascript-features/)
