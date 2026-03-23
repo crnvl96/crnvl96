@@ -5,9 +5,9 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
 - [crnvl96/cdk-chronological-persistence](https://github.com/crnvl96/cdk-chronological-persistence) - A demo showing how DLQ reprocessing breaks event ordering in AWS microservices, and how to fix it by stamping   timestamps at the API Gateway level instead of at processing time. Runs locally via LocalStack.
-- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/consiglio](https://github.com/crnvl96/consiglio) - A Poker Planning web application
 - [crnvl96/js-playground](https://github.com/crnvl96/js-playground) - ideas over javascript
 - [crnvl96/vscode-language-servers](https://github.com/crnvl96/vscode-language-servers) - Standalone Language Server Protocol (LSP) servers extracted from VS Code and vscode-eslint. Use the same HTML, CSS, JSON, Markdown, and ESLint intelligence that powers VS Code in any LSP-capable editor (Neovim, Emacs, Sublime Text, etc.) without running VS Code.
