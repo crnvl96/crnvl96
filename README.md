@@ -5,8 +5,8 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
-- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
+- [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/assets](https://github.com/crnvl96/assets) - 
 - [crnvl96/cdk-chronological-persistence](https://github.com/crnvl96/cdk-chronological-persistence) - A demo showing how DLQ reprocessing breaks event ordering in AWS microservices, and how to fix it by stamping   timestamps at the API Gateway level instead of at processing time. Runs locally via LocalStack.
 - [crnvl96/consiglio](https://github.com/crnvl96/consiglio) - A Poker Planning web application
