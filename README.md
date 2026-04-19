@@ -5,6 +5,7 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 > Find me on [linkedin](https://www.linkedin.com/in/adrancarnavale/) or [email](mailto:adran@hey.com)
 
 #### Recent contributions
+- [crnvl96/pi](https://github.com/crnvl96/pi) - 
 - [crnvl96/nvim](https://github.com/crnvl96/nvim) - my nvim config
 - [crnvl96/dotfiles](https://github.com/crnvl96/dotfiles) - personal config files
 - [crnvl96/assets](https://github.com/crnvl96/assets) - 
@@ -14,7 +15,6 @@ I'm [Adran](https://crnvl96.dev), a software developer from Brazil.
 - [crnvl96/vscode-language-servers](https://github.com/crnvl96/vscode-language-servers) - Standalone Language Server Protocol (LSP) servers extracted from VS Code and vscode-eslint. Use the same HTML, CSS, JSON, Markdown, and ESLint intelligence that powers VS Code in any LSP-capable editor (Neovim, Emacs, Sublime Text, etc.) without running VS Code.
 - [crnvl96/nodejs-design-patterns](https://github.com/crnvl96/nodejs-design-patterns) - 
 - [crnvl96/thoughts](https://github.com/crnvl96/thoughts) - personal blog
-- [crnvl96/presentations](https://github.com/crnvl96/presentations) - 
 
 #### Recent writings
 - [Some less known Javascript features - Part 1](https://crnvl96.dev/posts/2026-02-19-javascript-features/)
